@@ -60,18 +60,3 @@ PHP_FUNCTION(slice)
 
     RETURN_STRING(slice, 1);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
