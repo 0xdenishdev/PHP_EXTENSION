@@ -104,20 +104,3 @@ in_array(long val, int *arr, int size)
     return 0;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
