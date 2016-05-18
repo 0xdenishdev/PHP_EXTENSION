@@ -73,7 +73,7 @@ php -r "print_r( slice('Hello, World', from_index[, to_index]) );"
 Also you can run `$ ./build_ext.sh`, to do all the previous steps automatically
 
 =====
-Usefull links: 
+Useful links: 
 
 [Parameter Handling](http://docstore.mik.ua/orelly/webprog/php/ch14_07.htm) &
 [Returning Values](http://docstore.mik.ua/orelly/webprog/php/ch14_08.htm)
